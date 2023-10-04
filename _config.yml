@@ -20,7 +20,6 @@ plugins:
   - jekyll-soopr-seo-tag
   - jekyll-sitemap
   - jekyll-minifier
-  - jemoji
 
 css_dir: "assets/css" # defaults to "css"
 
