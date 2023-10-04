@@ -1,9 +1,9 @@
-title: IDNTEQ
+title: OpenDigi
 
 # for atom feed
 author:
-  name: Luit Simon Adrianus de Haan
-  email: adriaan@idnteq.net
+  name: Adriaan de Haan
+  email: technical@opendigi.org
 
 description: > # this means to ignore newlines until "show_excerpts:"
   OpenDigi is an initiative to assist educational institutions with the digital 
